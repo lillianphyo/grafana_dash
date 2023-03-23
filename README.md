@@ -1,2 +1,2 @@
 # grafana_kdash
-kubernetes cluster grafana dashboard
+a collection of grafana dashboards
